@@ -202,8 +202,3 @@ strengthen customer loyalty.
 Ahmed Mohamed Elatar
 
 
-------------------------------------------------------------------------
-
-## License
-
-This project is intended for educational  purposes.
