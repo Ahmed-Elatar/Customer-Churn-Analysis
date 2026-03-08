@@ -1,0 +1,51 @@
+Customer_ID,City,Membership_Type,Total_Spend,Days_Since_Last_Purchase,Satisfaction_Level
+382,New York,Gold,1160.6,31,Satisfied
+406,New York,Gold,1160.6,33,Satisfied
+430,New York,Gold,1160.6,35,Satisfied
+394,New York,Gold,1140.6,32,Satisfied
+418,New York,Gold,1140.6,34,Satisfied
+442,New York,Gold,1140.6,36,Satisfied
+302,Miami,Silver,730.4,50,Unsatisfied
+105,Miami,Silver,720.4,55,Unsatisfied
+344,Miami,Silver,720.4,55,Unsatisfied
+123,Miami,Silver,710.4,54,Unsatisfied
+153,Miami,Silver,710.4,54,Unsatisfied
+183,Miami,Silver,710.4,54,Unsatisfied
+213,Miami,Silver,710.4,54,Unsatisfied
+243,Miami,Silver,710.4,54,Unsatisfied
+255,Miami,Silver,710.4,54,Unsatisfied
+285,Miami,Silver,710.4,54,Unsatisfied
+326,Miami,Silver,710.4,54,Unsatisfied
+368,Miami,Silver,710.4,57,Unsatisfied
+380,Miami,Silver,710.4,58,Unsatisfied
+392,Miami,Silver,710.4,59,Unsatisfied
+404,Miami,Silver,710.4,60,Unsatisfied
+416,Miami,Silver,710.4,61,Unsatisfied
+428,Miami,Silver,710.4,62,Unsatisfied
+440,Miami,Silver,710.4,63,Unsatisfied
+117,Miami,Silver,700.6,48,Unsatisfied
+141,Miami,Silver,700.4,53,Unsatisfied
+171,Miami,Silver,700.4,53,Unsatisfied
+201,Miami,Silver,700.4,53,Unsatisfied
+231,Miami,Silver,700.4,53,Unsatisfied
+273,Miami,Silver,700.4,53,Unsatisfied
+356,Miami,Silver,700.4,56,Unsatisfied
+135,Miami,Silver,690.6,47,Unsatisfied
+165,Miami,Silver,690.6,47,Unsatisfied
+195,Miami,Silver,690.6,47,Unsatisfied
+225,Miami,Silver,690.6,47,Unsatisfied
+267,Miami,Silver,690.6,47,Unsatisfied
+297,Miami,Silver,690.6,47,Unsatisfied
+338,Miami,Silver,690.6,47,Unsatisfied
+314,Miami,Silver,690.4,52,Unsatisfied
+111,Miami,Silver,690.3,34,Unsatisfied
+350,Miami,Silver,690.3,34,Unsatisfied
+147,Miami,Silver,680.3,32,Unsatisfied
+177,Miami,Silver,680.3,32,Unsatisfied
+207,Miami,Silver,680.3,32,Unsatisfied
+237,Miami,Silver,680.3,32,Unsatisfied
+249,Miami,Silver,680.3,32,Unsatisfied
+279,Miami,Silver,680.3,32,Unsatisfied
+320,Miami,Silver,680.3,32,Unsatisfied
+308,Miami,Silver,670.6,46,Unsatisfied
+129,Miami,Silver,670.3,33,Unsatisfied
